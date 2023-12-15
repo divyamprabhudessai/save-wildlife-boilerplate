@@ -31,15 +31,15 @@ nav,
   height: 60px;
   /* Your code goes here */
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 .container {
   width: 500px;
   /* Your code goes here */
-  display:flex;
-  justify-content: space-around;
+  display: flex;
+  justify-content: space-evenly;
   align-items: center;
 }
 
